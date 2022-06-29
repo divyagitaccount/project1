@@ -1,1 +1,1 @@
-hello hi this my first work with git.
+hello this is my first work
